@@ -67,6 +67,10 @@ footer,
     animation: call 2s ease 0s infinite normal forwards;
 }
 
+.url-text {
+    color: rgb(249, 43, 70);
+}
+
 @keyframes call {
     0%,
     100% {
