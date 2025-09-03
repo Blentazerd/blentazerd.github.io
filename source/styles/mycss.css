@@ -71,6 +71,10 @@ footer,
     color: rgb(249, 43, 70);
 }
 
+.vscode {
+    color: brown;
+}
+
 @keyframes call {
     0%,
     100% {
